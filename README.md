@@ -4,4 +4,4 @@
 ### SQL
 ### Power BI
 ## Visualization Preview:
-[a  link] (https://github.com/GarthTayaotao/data_analyst-e-commerce_sales/blob/main/E-Commerce%20Sales%20Visualization.jpg)
+![alt text] (https://github.com/GarthTayaotao/data_analyst-e-commerce_sales/blob/main/E-Commerce%20Sales%20Visualization.jpg)
